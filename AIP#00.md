@@ -2,7 +2,7 @@
 
 **Title**: AIP Objectives and Guidelines
 
-**Status**: DRAFT
+**Status**: REVIEW
 
 **Type**: Procedure
 
