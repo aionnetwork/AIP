@@ -25,7 +25,7 @@ Deferred | If the AIP has been inactive or abandoned by the Author(s) or communi
 
 ### List of AIP’s Draft
 * AIP #00 - Aion Improvement Proposal Process
-
+* AIP #02 - Aion Token Standard
 ### List of AIP's in Review
 
 ### List of AIP’s Accepted
