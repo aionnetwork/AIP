@@ -3,7 +3,7 @@ pragma solidity 0.4.15;
 /// @dev The interface a contract MUST implement if it is the delegate of some (other) interface for any address other than itself.
 interface AIRDelegateInterface {
     /// @notice Indicates whether the contract implements the interface `interfaceHash` for the address `target` or not.
-    /// @param addr Address for which the contract will implement the interface
+    /// @param target Address for which the contract will implement the interface
     /// @param interfaceHash sha3 hash of the name of the interface
     /// @return sha3("AIR_ACCEPT_MAGIC") only if the contract implements `interfaceHash` for the address `target`.
     function isDelegateFor(address target, bytes32 interfaceHash) external constant returns(bytes32);
