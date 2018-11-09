@@ -28,10 +28,9 @@ Deferred | If the AIP has been inactive or abandoned by the Author(s) or communi
 * AIP #006 - To Support blake2b Hashing in Solidity VM
 * AIP #007 - To support transaction hash within solidity contract
 ### List of AIP's in Review
-* AIP #000 - Aion Improvement Proposal Process
 * AIP #004 - Aion Token Standard
 ### List of AIP’s Accepted
-
+* AIP #000 - Aion Improvement Proposal Process
 ### List of AIP’s Final
 
 ### List of AIP’s Deferred
