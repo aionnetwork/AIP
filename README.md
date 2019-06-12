@@ -4,7 +4,7 @@
 
 ## AIP
 
-An AIP is an Aion Improvement Proposal. AIP's can be proposed by anyone in the Aion community. The proposal is a document which provides a concise overview to the Aion community of a new process, functionality, standard or convention
+An AIP is an Aion Improvement Proposal. AIPs can be proposed by anyone in the Aion community. The proposal is a document which provides a concise overview to the Aion community of a new process, functionality, standard or convention
 
 ## Submitting
 
@@ -23,15 +23,15 @@ Rejected | If there is consensus among the community that this AIP is no longer 
 Replaced | The AIP has been replaced by a subsequent AIP that addresses the improvement
 Deferred | If the AIP has been inactive or abandoned by the Author(s) or community
 
-### List of AIP’s Draft
+### List of AIPs Draft
 * AIP #005 - Bridge Operator Standard
 * AIP #006 - To Support blake2b Hashing in Solidity VM
 * AIP #007 - To support transaction hash within solidity contract
-### List of AIP's in Review
+### List of AIPs in Review
 * AIP #004 - Aion Token Standard
-### List of AIP’s Accepted
+### List of AIPs Accepted
 * AIP #000 - Aion Improvement Proposal Process
-### List of AIP’s Final
+### List of AIPs Final
 
-### List of AIP’s Deferred
+### List of AIPs Deferred
 
