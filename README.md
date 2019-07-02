@@ -24,13 +24,14 @@ Replaced | The AIP has been replaced by a subsequent AIP that addresses the impr
 Deferred | If the AIP has been inactive or abandoned by the Author(s) or community
 
 ### List of AIP’s Draft
-* AIP #005 - Bridge Operator Standard
-* AIP #006 - To Support blake2b Hashing in Solidity VM
-* AIP #007 - To support transaction hash within solidity contract
+
 ### List of AIP's in Review
 * AIP #004 - Aion Token Standard
 ### List of AIP’s Accepted
 * AIP #000 - Aion Improvement Proposal Process
+* AIP #005 - Bridge Operator Standard
+* AIP #006 - To Support blake2b Hashing in Solidity VM
+* AIP #007 - To support transaction hash within solidity contract
 ### List of AIP’s Final
 
 ### List of AIP’s Deferred
