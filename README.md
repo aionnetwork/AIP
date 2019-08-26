@@ -8,20 +8,27 @@ An AIP is an Aion Improvement Proposal. AIP's can be proposed by anyone in the A
 
 ## Submitting
 
-The first step in the AIP process is to review AIP #00, this proposal describes the guidelines, categories, statuses and AIP template for contributing. To submit, fork the AIP repo and submit a PR with your AIP. 
+The first step in the AIP process is to review AIP-000, this proposal describes the guidelines, categories, statuses and AIP template for contributing. To submit, fork the AIP repo and submit a PR with your AIP. 
 
 ## AIP Status Markers
 
 Phase / Status | Description
 ------------ | -------------
-Socialization | The Author(s) socialize the proposed AIP amongst community members across Aion channels
-Draft | The Author(s) submit their AIP based on the template and format as a PR
-Review | The AIP is under review by the Aion community and the town hall
-Accepted | The AIP’s implementation code is proposed and the executed across the active clients (Standard Types, Non-ASC)
+Pre-AIP | TThe Author(s) submit the AIP idea to community members across Aion channels as an AIP issue.
+Draft | The Author(s) update their Pre-AIP based on the template and format and create a PR.
+Discussion | The AIP is under review. The community are now free to discuss the proposal and either defend or criticize it's points. For Core AIPs, a dedicated group will be assigned by the AIP Gate Keep to review the proposal.
+Last-Call | The AIP will be merged in https://github.com/aionnetwork/AIP with the [final decision](#aip-decision-options). 
 Final | The AIP has been adopted by the majority of active clients (core); AIP has passed "Final Call" (ASC, Procedure, Memo)
-Rejected | If there is consensus among the community that this AIP is no longer needed, feasible or wanted.
-Replaced | The AIP has been replaced by a subsequent AIP that addresses the improvement
-Deferred | If the AIP has been inactive or abandoned by the Author(s) or community
+
+## AIP Decision Options
+
+Decision | Description
+---------|-------------
+Accepted(Core AIPs only) | The AIP’s implementation code is proposed and executed across the active clients.
+Rejected | If there is a consensus among the community that this AIP is not needed, feasible or wanted.
+Deprecated | The AIP was previously *Final* but is no longer needed or supported. 
+Replaced | The AIP has been replaced by a subsequent AIP that addresses the improvement.
+
 
 ### List of AIP’s Draft
 
@@ -29,6 +36,7 @@ Deferred | If the AIP has been inactive or abandoned by the Author(s) or communi
 * AIP #004 - Aion Token Standard
 ### List of AIP’s Accepted
 * AIP #000 - Aion Improvement Proposal Process
+The AIP has been replaced by a subsequent AIP that addresses the improvement.
 * AIP #005 - Bridge Operator Standard
 * AIP #006 - To Support blake2b Hashing in Solidity VM
 * AIP #007 - To support transaction hash within solidity contract
