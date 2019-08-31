@@ -25,7 +25,7 @@ AIP’s serve as the formal process for the Aion community to suggest, debate, c
    * Core: Improvement proposals that relate to core protocol design. Such as consensus, hashing algorithms, mining..etc
    * Networking: Improvement proposals that relate to peer-to-peer communication, and messaging
    * Interface: Improvement proposals related to clients, API’s/RPC design and specs (ex: Web3.js, Java)
-   * ASC: Aion Standards & Conventions are proposals related to application layer elements such as token standards, registries, wallet & address formats
+   * ASC: Aion Standards & Conventions are proposals related to application layer elements such as token standards, registries, wallet & address formats -- in your ASC, consider prefixing your function and event names like `aip040` to avoid collissions with other standars
 
 2. Memo: A Memo AIP covers general information, guidelines, or templates as they relate to the broader Aion community. These can be viewed as more of a public memo for discussion and does not propose a material technical change.
 
