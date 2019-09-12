@@ -1,14 +1,12 @@
-**AIP**: 00
-
-**Title**: AIP Objectives and Guidelines
-
-**Status**: ACCEPTED
-
-**Type**: Procedure
-
-**Author**: Sam Pajot-Phipps (sam@aion.network)
-
-**Created**: August 15th, 2018
+---
+AIP: 00
+Title: AIP Objectives and Guidelines
+Author(s): Sam Pajot-Phipps (sam@aion.network)
+Type: Procedure
+Status: Accepted
+Creation Date: 2019-08-15
+Contact Information:
+---
 
 ## AIP Definition
 
