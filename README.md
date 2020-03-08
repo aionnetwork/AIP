@@ -17,7 +17,7 @@ Phase / Status | Description
 Pre-AIP | TThe Author(s) submit the AIP idea to community members across Aion channels as an AIP issue.
 Draft | The Author(s) update their Pre-AIP based on the template and format and create a PR.
 Discussion | The AIP is under review. The community are now free to discuss the proposal and either defend or criticize it's points. For Core AIPs, a dedicated group will be assigned by the AIP Gate Keep to review the proposal.
-Last-Call | The AIP will be merged in https://github.com/aionnetwork/AIP with the [final decision](#aip-decision-options). 
+Last-Call | The AIP will be merged in https://github.com/aionnetwork/AIP with the [final decision](#aip-decision-options). 
 Final | The AIP has been adopted by the majority of active clients (core); AIP has passed "Final Call" (ASC, Procedure, Memo)
 
 ## AIP Decision Options
@@ -30,17 +30,16 @@ Deprecated | The AIP was previously *Final* but is no longer needed or supported
 Replaced | The AIP has been replaced by a subsequent AIP that addresses the improvement.
 
 
-### List of AIP’s Draft
+### List of AIPs Draft
 
-### List of AIP's in Review
+### List of AIPs in Review
 * AIP #004 - Aion Token Standard
-### List of AIP’s Accepted
+### List of AIPs Accepted
 * AIP #000 - Aion Improvement Proposal Process
 The AIP has been replaced by a subsequent AIP that addresses the improvement.
 * AIP #005 - Bridge Operator Standard
 * AIP #006 - To Support blake2b Hashing in Solidity VM
 * AIP #007 - To support transaction hash within solidity contract
-### List of AIP’s Final
+### List of AIPs Final
 
-### List of AIP’s Deferred
-
+### List of AIPs Deferred
